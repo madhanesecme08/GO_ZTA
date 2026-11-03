@@ -1,0 +1,52 @@
+{
+  "Relative_Density_pct": {
+    "axis_x": 165,
+    "tick_rows": [
+      19.0,
+      152.0,
+      287.0,
+      421.0,
+      555.5
+    ],
+    "value_per_pixel": 0.007451531728422324,
+    "calibration_max_residual": 0.005211630164140502
+  },
+  "Vickers_Hardness_GPa": {
+    "axis_x": 140,
+    "tick_rows": [
+      16.5,
+      129.5,
+      242.0,
+      354.5,
+      467.5,
+      579.5
+    ],
+    "value_per_pixel": 0.008879857210364066,
+    "calibration_max_residual": 0.0029158328541178946
+  },
+  "Youngs_Modulus_GPa": {
+    "axis_x": 184,
+    "tick_rows": [
+      69.0,
+      194.0,
+      318.5,
+      443.5,
+      568.5,
+      693.0
+    ],
+    "value_per_pixel": 0.08011900320601324,
+    "calibration_max_residual": 0.015636517527070737
+  },
+  "Fracture_Toughness_MPa_m0p5": {
+    "axis_x": 124,
+    "tick_rows": [
+      45.0,
+      176.5,
+      308.0,
+      440.0,
+      571.5
+    ],
+    "value_per_pixel": 0.007595894927973153,
+    "calibration_max_residual": 0.0015191789855961702
+  }
+}
